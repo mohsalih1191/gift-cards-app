@@ -2,6 +2,10 @@
   "name": "gift-cards-app",
   "version": "1.0.0",
   "private": true,
+  "workspaces": [
+    "project/frontend",
+    "project/backend"
+  ],
   "scripts": {
     "build": "cd project/frontend && npm install && npm run build && cd ../backend && npm install && npm run build",
     "start": "cd project/backend && npm start",
@@ -13,4 +17,4 @@
   "engines": {
     "node": ">=18.0.0"
   }
-} 
+}
