@@ -1,0 +1,16 @@
+{
+  "name": "gift-cards-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "cd project/frontend && npm install && npm run build && cd ../backend && npm install && npm run build",
+    "start": "cd project/backend && npm start",
+    "dev": "cd project/backend && npm run dev"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+} 

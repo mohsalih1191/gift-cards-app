@@ -1,0 +1,128 @@
+{
+  "welcome_message": "مرحباً بكم في مركز البطاقات",
+  "description": "متجرك الشامل للبطاقات الرقمية!",
+  "navigation": {
+    "home": "الرئيسية",
+    "catalog": "التصنيفات",
+    "cart": "سلة التسوق",
+    "orders": "طلباتي",
+    "account": "الحساب"
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "signup": "إنشاء حساب",
+    "logout": "تسجيل الخروج",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "name": "الاسم الكامل",
+    "confirm_password": "تأكيد كلمة المرور",
+    "submit": "إرسال",
+    "already_have_account": "لديك حساب بالفعل؟",
+    "need_account": "تحتاج إلى حساب؟",
+    "register": "تسجيل",
+    "registering": "جاري التسجيل...",
+    "passwords_dont_match": "كلمات المرور غير متطابقة",
+    "password_too_short": "يجب أن تكون كلمة المرور 6 أحرف على الأقل",
+    "registration_failed": "فشل التسجيل. يرجى المحاولة مرة أخرى.",
+    "user_exists": "المستخدم موجود بالفعل",
+    "invalid_email": "يرجى إدخال عنوان بريد إلكتروني صحيح",
+    "invalid_password": "يجب أن تكون كلمة المرور 6 أحرف على الأقل",
+    "name_required": "الاسم مطلوب"
+  },
+  "giftCard": {
+    "categories": {
+      "all": "جميع الفئات",
+      "gaming": "ألعاب",
+      "shopping": "تسوق",
+      "entertainment": "ترفيه",
+      "food": "طعام",
+      "travel": "سفر",
+      "other": "أخرى"
+    },
+    "price": "السعر",
+    "add_to_cart": "أضف إلى السلة",
+    "buy_now": "اشتر الآن",
+    "details": "عرض التفاصيل",
+    "available": "متوفر",
+    "not_available": "غير متوفر"
+  },
+  "cart": {
+    "title": "سلة التسوق",
+    "empty": "سلة التسوق فارغة",
+    "items": "العناصر",
+    "total": "المجموع",
+    "checkout": "إتمام الشراء",
+    "continue_shopping": "مواصلة التسوق",
+    "remove": "إزالة"
+  },
+  "checkout": {
+    "title": "إتمام الشراء",
+    "payment_details": "تفاصيل الدفع",
+    "card_number": "رقم البطاقة",
+    "expiry_date": "تاريخ الانتهاء",
+    "cvc": "رمز التحقق",
+    "cardholder_name": "اسم حامل البطاقة",
+    "billing_address": "عنوان الفواتير",
+    "complete_order": "إتمام الطلب",
+    "cancel": "إلغاء",
+    "recipient_email": "البريد الإلكتروني للمستلم (اختياري)",
+    "processing": "جاري معالجة الدفع..."
+  },
+  "orders": {
+    "title": "طلباتي",
+    "no_orders": "ليس لديك طلبات بعد",
+    "order_id": "رقم الطلب",
+    "date": "التاريخ",
+    "status": "الحالة",
+    "amount": "المبلغ",
+    "view_details": "عرض التفاصيل",
+    "status_types": {
+      "pending": "قيد الانتظار",
+      "completed": "مكتمل",
+      "failed": "فشل",
+      "refunded": "مسترد"
+    }
+  },
+  "profile": {
+    "title": "ملفي الشخصي",
+    "update_info": "تحديث المعلومات",
+    "language_preference": "تفضيل اللغة",
+    "save_changes": "حفظ التغييرات",
+    "cancel": "إلغاء"
+  },
+  "errors": {
+    "general": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
+    "payment_failed": "فشل الدفع. يرجى المحاولة مرة أخرى.",
+    "server_error": "خطأ في الخادم. يرجى المحاولة مرة أخرى لاحقاً.",
+    "validation_error": "يرجى التحقق من المدخلات والمحاولة مرة أخرى."
+  },
+  "success": {
+    "order_complete": "تم إكمال الطلب بنجاح!",
+    "profile_updated": "تم تحديث الملف الشخصي بنجاح!",
+    "registration_complete": "تم التسجيل بنجاح! مرحباً بك في مركز بطاقات الهدايا."
+  },
+  "footer": {
+    "copyright": "© 2025 مركز البطاقات. جميع الحقوق محفوظة.",
+    "terms": "شروط الخدمة",
+    "privacy": "سياسة الخصوصية",
+    "contact": "اتصل بنا"
+  },
+  "admin": {
+    "dashboard": "لوحة التحكم",
+    "total_users": "إجمالي المستخدمين",
+    "total_orders": "إجمالي الطلبات",
+    "total_revenue": "إجمالي الإيرادات",
+    "active_gift_cards": "بطاقات الهدايا النشطة",
+    "recent_orders": "الطلبات الأخيرة",
+    "order_id": "رقم الطلب",
+    "user": "المستخدم",
+    "amount": "المبلغ",
+    "status": "الحالة",
+    "date": "التاريخ",
+    "settings": "الإعدادات",
+    "logout": "تسجيل الخروج",
+    "completed": "مكتمل",
+    "pending": "قيد الانتظار",
+    "failed": "فشل"
+  }
+}
